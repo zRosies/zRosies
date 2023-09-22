@@ -1,6 +1,7 @@
+<h1> 💫 About me💫</h1>
 <h1 align="center">Hi 👋, I'm Gustavo Bispo</h1>
 <h3 align="center">A passionate Full-Stack and Sofwtare Developer 💻 from Brazil 🇧🇷</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
