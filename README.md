@@ -1,7 +1,7 @@
 
 <h1 align="center">💫 About me💫</h1>
 <h1>My name is Gustavo </h1>
-<h3 align="left">A passionate Full-Stack and Software Developer 💻 from Brazil</h3>
+<h3 align="left">A passionate Fullstack Software Developer 💻 from Brazil</h3>
 <h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
 
 - 🔭 I’m currently working on **Web Development Projects, React.js, Node.js, Web Services, Next.js**
