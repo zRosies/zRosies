@@ -3,14 +3,12 @@
 <h1>My name is Gustavo </h1>
 <h3 align="left">A passionate Full-Stack and Software Developer 💻 from Brazil</h3>
 <h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Web Development Projects, React.js, Node.js, Web Services, Next.js**
 
-- 🌱 I’m currently learning **React.js, Node.js, Web Serves**
+- 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **Frontend and Backend Projects**
+- 👯 I’m looking to collaborate on **Fullstack projects**
 
 - 👨‍💻 All of my projects are available at [https://zrosies.github.io/porfolio/home/home.html](https://zrosies.github.io/porfolio/home/home.html)
 
