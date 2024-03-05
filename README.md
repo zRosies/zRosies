@@ -4,6 +4,7 @@
 <h3 align="left">A passionate Full-Stack and Software Developer 💻 from Brazil</h3>
 <h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
