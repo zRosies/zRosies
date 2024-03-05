@@ -3,7 +3,6 @@
 <h1>My name is Gustavo </h1>
 <h3 align="left">A passionate Full-Stack and Software Developer 💻 from Brazil</h3>
 <h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
-<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zrosies" alt="zrosies" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development Projects**
