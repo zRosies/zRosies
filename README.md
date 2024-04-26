@@ -22,7 +22,7 @@
 
 ## Technologies 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,bootstrap,cs,cloudflare,css,cypress,dotnet,express,figma,firebase,github,graphql,html,js,mysql,nextjs,nodejs,npm,php,postgres,prisma,react,redux,tailwind,ts,vercel,vite)](https://skillicons.dev)
 
 
 
