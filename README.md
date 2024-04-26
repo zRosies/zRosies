@@ -4,16 +4,6 @@
 <h3 align="left">A passionate Fullstack Software Developer 💻 from Brazil</h3>
 <h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
 
-- 🔭 I’m currently working on **Web Development Projects, React.js, Node.js, Web Services, Next.js**
-
-- 🌱 I’m currently learning **.NET**
-
-- 👯 I’m looking to collaborate on **Fullstack projects**
-
-- 👨‍💻 All of my projects are available at [https://zrosies.github.io/porfolio/home/home.html](https://zrosies.github.io/porfolio/home/home.html)
-
-- 📫 How to reach me **gustavo.archer.lucian@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-l-bispo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-l-bispo/" height="30" width="40" /></a>
