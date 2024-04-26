@@ -15,7 +15,7 @@
 
 ## Board 💻
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; align-content: center;">
     <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zrosies&show_icons=true&locale=en" alt="zrosies" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zrosies&show_icons=true&locale=en&layout=compact" alt="zrosies" /></p>
 </div>
