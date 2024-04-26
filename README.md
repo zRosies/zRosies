@@ -15,6 +15,9 @@
 
 ## Board 💻
 
+<a href="https://www.linkedin.com/in/gustavo-l-bispo/"> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+
+
 <div style="display: flex;  align-content: center;">
     <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=zrosies&show_icons=true&locale=en" alt="zrosies" /></p>
     <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zrosies&show_icons=true&locale=en&layout=compact" alt="zrosies" /></p>
