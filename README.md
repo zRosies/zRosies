@@ -14,16 +14,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,bootstrap,cs,cloudflare,css,cypress,dotnet,express,figma,firebase,github,graphql,html,js,mysql,nextjs,nodejs,npm,php,postgres,prisma,react,redux,tailwind,ts,vercel,vite)](https://skillicons.dev)
   
-## Spoken Languages 🌎
-
-<p>English</p>
-<p>Português</p>
-
 
 ## Connect with me 🎯
 
 
 <a href="https://www.linkedin.com/in/gustavo-l-bispo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-l-bispo/" height="30" width="40" /></a>
+
+## Spoken Languages 🌎
+
+<p>English</p>
+<p>Português</p>
 
 
 
