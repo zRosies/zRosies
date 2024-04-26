@@ -4,8 +4,9 @@
   
 ## Spoken Languages 🌎
 
-English
-Português
+<p>English</p>
+<p>Português</p>
+
 
 ## Connect with me 🎯
 
