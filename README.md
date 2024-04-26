@@ -20,6 +20,10 @@
     <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zrosies&show_icons=true&locale=en&layout=compact" alt="zrosies" /></p>
 </div>
 
+## Technologies 🚀
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 
 
