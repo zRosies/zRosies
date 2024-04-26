@@ -2,7 +2,7 @@
 <h1 align="center">💫 Hey!💫</h1>
 <h1>My name is Gustavo </h1>
 <h3 align="left">A passionate Fullstack Software Developer 💻 from Brazil</h3>
-<h3>Spoken languages: English/Portuguese/a bit of Spanish</h3>
+<h3>Spoken languages: English/Portuguese</h3>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-l-bispo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-l-bispo/" height="30" width="40" /></a>
