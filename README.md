@@ -4,12 +4,6 @@
 
 
 ## Board 💻
-
-<div style="display: flex;  align-content: center;">
-    <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=zrosies&show_icons=true&locale=en" alt="zrosies" /></p>
-    <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zrosies&show_icons=true&locale=en&layout=compact" alt="zrosies" /></p>
-</div>
-
 ## Technologies 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,aws,bootstrap,cs,cloudflare,css,cypress,dotnet,express,figma,firebase,github,graphql,html,js,mysql,nextjs,nodejs,npm,php,postgres,prisma,react,redux,tailwind,ts,vercel,vite)](https://skillicons.dev)
